@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Testing WebServices
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Check out a non-profit that I setup - www.onebillionliterates.org
+- ⚡ Fun fact: Check out a non-profit that I setup - www.oblf.org
 
