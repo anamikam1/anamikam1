@@ -5,11 +5,11 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on RESTFUl API testing
-- 🌱 I’m currently learning Crypto
-- 👯 I’m looking to collaborate on the up and coming remote tech scene
-- 🤔 I’m looking for help with System Testing
-- 💬 Ask me about Testing WebServices
+- 🔭 I’m currently studying to be a Smart Contract Auditor
+- 🌱 I’m proud to have completed several Blockchain courses in the past 1 year
+- 👯 I’m looking to learn from the very best in DeFi
+- 🤔 I have 20+ years of experience Testing and Developing Software
+- 💬 Ask me about Systems Testing
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Check out a non-profit that I setup - www.oblf.org
