@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Systems Testing
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Check out a non-profit that I setup - www.oblf.org
+- ⚡ Fun fact: Check out a non-profit that I founded in Jul 2010 - www.oblf.org
 
