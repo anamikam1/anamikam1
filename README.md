@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying to be a Smart Contract Auditor
-- 🌱 I’m proud to have completed several Blockchain courses in the past 1 year
+- 🌱 I’ve been exploring the Cyfrin Updraft courses -feel free to take a look at my profile if of interest
 - 👯 I’m looking to learn from the very best in DeFi
-- 🤔 I have 20+ years of experience Testing and Developing Software
-- 💬 Ask me about Systems Testing
+- 🤔 20+ years of experience Testing and Developing Software
+- 💬 Fun fact: Check out a non-profit that I founded in Jul 2010 - www.oblf.org
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Check out a non-profit that I founded in Jul 2010 - www.oblf.org
+- ⚡ I have run marathons in 4 continents
 
