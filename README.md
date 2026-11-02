@@ -3,7 +3,7 @@
 <!--
 **anamikam1/anamikam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+A little about me and my journey:
 
 - 🔭 In 2026, I pivoted my career into Web3 cybersecurity as a Smart Contract Reviewer.
 - 🌱 Feel free to explore my [Cyfrin Updraft profile](https://profiles.cyfrin.io/u/anamikam) and take a look at the courses and certifications I’ve completed.
