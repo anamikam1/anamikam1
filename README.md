@@ -5,12 +5,12 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying to be a Smart Contract Auditor
-- 🌱 I’ve been exploring the Cyfrin Updraft courses -feel free to take a look at my profile if of interest
-- 👯 I’m looking to learn from the very best in DeFi
-- 🤔 20+ years of experience Testing and Developing Software
-- 💬 Fun fact: Check out a non-profit that I founded in Jul 2010 - www.oblf.org
-- 📫 How to reach me: LinkedIn
+- 🔭 In 2026, I pivoted my career into Web3 cybersecurity as a Smart Contract Reviewer.
+- 🌱 Feel free to explore my [Cyfrin Updraft profile](https://profiles.cyfrin.io/u/anamikam) and take a look at the courses and certifications I’ve completed.
+- 👯 I'm fascinated by blockchain's potential and deepening my understanding of DeFi protocols
+- 🤔 20+ years of experience Developing and Testing Software
+- 💬 Fun fact: In 2010, driven by a desire to give back, I founded [OBLF](https://www.oblf.org).
+- ⚡ I have run marathons in 5 countries/4 continents for the foundation
 - 😄 Pronouns: She/Her
-- ⚡ I have run marathons in 4 continents
+- 📫 How to reach me: LinkedIn
 
